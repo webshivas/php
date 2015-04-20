@@ -1,2 +1,11 @@
 # php
-I will learn php
+<?php
+echo 'ye';
+
+
+
+
+
+
+
+?>
